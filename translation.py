@@ -17,7 +17,11 @@ class Translation(object):
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = """
+<b>Join Group➣</b> <a href="https://t.me/joinchat/NHBcN0lP1By_OJGZfIbwXA">Click Here</a>
+<b>Backup Channel➣</b> <a href="https://t.me/joinchat/AAAAAEph9Bzx1lTl3z3hbQ">Click Here</a>
+<b>Main Channel➣</b> <a HREF="https://t.me/joinchat/AAAAAEpVEgQCfq4ZkGfabg">Click Here</a>
+✯ ━━ @Bratflix ━━ ✯"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """It's not that complicated😅
